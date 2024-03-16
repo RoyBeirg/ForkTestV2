@@ -1,0 +1,3 @@
+MaxFps = 250
+MinFps = 50
+SaveOnClose = true
